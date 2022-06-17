@@ -30,3 +30,5 @@ C:\Users\elpek\Desktop\Folder\School\Gorsel_Programlamaya_Giris\c#\Personel_Kayi
 C:\Users\elpek\Desktop\Folder\School\Gorsel_Programlamaya_Giris\c#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
 C:\Users\elpek\Desktop\Folder\School\Gorsel_Programlamaya_Giris\c#\Personel_Kayit\Personel_Kayit\bin\Debug\Dapper.dll
 C:\Users\elpek\Desktop\Folder\School\Gorsel_Programlamaya_Giris\c#\Personel_Kayit\Personel_Kayit\bin\Debug\Dapper.xml
+C:\Users\elpek\Desktop\Folder\School\Gorsel_Programlamaya_Giris\c#\Personel_Kayit\Personel_Kayit\bin\Debug\PersonelDb.mdf
+C:\Users\elpek\Desktop\Folder\School\Gorsel_Programlamaya_Giris\c#\Personel_Kayit\Personel_Kayit\bin\Debug\PersonelDb_log.ldf
